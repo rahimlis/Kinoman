@@ -1,7 +1,8 @@
 # Kinoman
 This app lets you watch online movies from our collection. 
 You can get brief information about movie, actors crew and imdb ratings. 
-Moreover, user can use convinient search to find movies or select one from category. 
+Moreover, user can use convinient search to find movies or select one from category.   
+[Download apk](https://github.com/rahimlis/Kinoman/raw/master/app-debug.apk)
 
 Movie                      |  Main screen              | Categories
 :-------------------------:|:-------------------------:|:-------------------------:
@@ -13,4 +14,5 @@ Movie details              |  Movie details 2
 ![](Screenshot4.png)       |  ![](Screenshot5.png)    
 
 
-Android программа для просмотра онлайн фильмов из нашей коллекции. Вы можете просматривать информацию про фильм, актерский состав и IMDB рейтинги. Кроме того пользователь может использовать удобный поиск фильмов на Android и выбирать из категорий.   
+Android программа для просмотра онлайн фильмов из нашей коллекции. Вы можете просматривать информацию про фильм, актерский состав и IMDB рейтинги. Кроме того пользователь может использовать удобный поиск фильмов на Android и выбирать из категорий.  
+[Скачать apk](https://github.com/rahimlis/Kinoman/raw/master/app-debug.apk)
